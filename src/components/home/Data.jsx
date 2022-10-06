@@ -6,7 +6,7 @@ const Data = () => {
             <h1 className="home__title">Jonathan Mendoza
 
             </h1>
-            <h3 className="home__subtitle">Frontend Developer</h3>
+            <h3 className="home__subtitle">Web Developer</h3>
             <p className="home__description">
                 ¡Proactive student of computer engineering, with a lot of passion for web applications!.
             </p>
