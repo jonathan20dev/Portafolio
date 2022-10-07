@@ -15,7 +15,7 @@ const About = () => {
                 <img src={AboutImg} alt="about_img" className="about__img" />
                 <div className="about__data">
                     <Info />
-                    <p className="about__description">Frontend developer, I create web pages with UI / UX user interface, I have years of experience and many clients are happy with the projects carried out.</p>
+                    <p className="about__description">Web developer, I create websites with UI/UX user interface, I have years of experience creating scalable projects of all kinds that you can find in my GitHub profile: <a href="https://github.com/jonathan20dev">jonathan20dev</a> </p>
 
                     <a download="" href={CV} className="button button--flex">Download CV
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" className="button__icon">

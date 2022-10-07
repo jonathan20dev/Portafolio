@@ -40,12 +40,12 @@ const Contact = () => {
             </div>
 
             <div className="contact__card">
-              <i className="bx bxl-messenger contact__card-icon"></i>
+              <i className="bx bxl-github contact__card-icon"></i>
 
-              <h3 className="contact__card-title">Messenger</h3>
-              <span className="contact__card-data">jonathan.mendoza</span>
+              <h3 className="contact__card-title">Github</h3>
+              <span className="contact__card-data">jonathan20dev</span>
 
-              <a href="https://me.me/Jonathan.Mendoza.ST/" className="contact__button">Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
+              <a href="https://github.com/jonathan20dev" className="contact__button">Follow me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
             </div>
           </div>
         </div>
