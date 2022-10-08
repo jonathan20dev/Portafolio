@@ -89,12 +89,28 @@ const Qualification = () => {
                             </div>
 
                             <div>
+                                <h3 className="qualification__title">Course Assistant: Taller de programación</h3>
+                                <span className="qualification__subtitle">Tecnológico de Costa Rica</span>
+                                <div className="qualification__calendar">
+                                    <i className="uil uil-calendar-alt"></i>2022
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div className="qualification__data">
+                            <div>
                                 <h3 className="qualification__title">Data structures Tutor</h3>
                                 <span className="qualification__subtitle">Tecnológico de Costa Rica</span>
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i>2021 - 2022
+                                    <i className="uil uil-calendar-alt"></i>2021
                                 </div>
                             </div>
+
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <span className="qualification__line"></span>
+                            </div>
+
                         </div>
 
                     </div>
@@ -110,7 +126,7 @@ const Qualification = () => {
                                 <span className="qualification__subtitle">Asociación Mariano Juvenil</span>
                                 <span className="qualification__subtitle">With Golabs supervision</span>
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i>2022
+                                    <i className="uil uil-calendar-alt"></i>2022 - Present
                                 </div>
                             </div>
 
@@ -133,17 +149,17 @@ const Qualification = () => {
                                 <h3 className="qualification__title">QA Intern</h3>
                                 <span className="qualification__subtitle">Nativo</span>
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i>2022
+                                    <i className="uil uil-calendar-alt"></i>2022 - Present
                                 </div>
                             </div>
                         </div>
 
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Web Developer</h3>
+                                <h3 className="qualification__title">IT Developer</h3>
                                 <span className="qualification__subtitle">Comunidad Aplicaciones Móviles</span>
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i>2020 - 2022
+                                    <i className="uil uil-calendar-alt"></i>2021 - 2022
                                 </div>
                             </div>
 
@@ -162,10 +178,10 @@ const Qualification = () => {
                             </div>
 
                             <div>
-                                <h3 className="qualification__title">IT Developer</h3>
+                                <h3 className="qualification__title">Frontend Developer</h3>
                                 <span className="qualification__subtitle">Comunidad Aplicaciones Móviles</span>
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i>2021 - 2022
+                                    <i className="uil uil-calendar-alt"></i>2020 - 2022
                                 </div>
                             </div>
                         </div>
